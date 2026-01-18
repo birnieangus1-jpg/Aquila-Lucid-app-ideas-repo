@@ -1,0 +1,6 @@
+services:
+  aquilalucidappideasrepo:
+    image: aquilalucidappideasrepo
+    build:
+      context: .
+      dockerfile: ./Dockerfile
