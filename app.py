@@ -71,5 +71,6 @@ class MessagingApp(App):
 # Usage example: run the app
 if __name__ == "__main__":
     mapp = MessagingApp()
-    asyncio.run(mapp.async_run())
+    asyncio.run(mapp.async_run(),debug=True)
+
     
