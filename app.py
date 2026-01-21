@@ -16,5 +16,4 @@ from PyQt5.QtGui import QColor, QPainter, QBrush, QFont, QPalette, QWindow
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    qthread = app.thread()
     sys.exit(app.exec_())
