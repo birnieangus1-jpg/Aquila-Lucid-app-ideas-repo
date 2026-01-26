@@ -1,5 +1,5 @@
 # Language: Python
-# python -m pip install kivy or py -3.10 -m pip insstall kivy
+# python -m pip install kivy or py -3.10 -m pip install kivy
 # Import necessary modules
 import asyncio
 from kivy.app import App
